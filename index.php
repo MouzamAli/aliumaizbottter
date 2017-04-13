@@ -1,210 +1,20 @@
-
-
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <title>MOUZAM ALI™</title>
-<script type='text/javascript' src='back.js'></script>
-        <style>
-html{
-    text-align:center;
-}
-@font-face {
-
-    font-family: AwiFont;
-
-    src: url(awi.ttf);
-
-}
-#footer{
-    font-family:AwiFont;
-}
-#header{
-    font-family:AwiFont;
-}
-.button1 {
-    font-family:AwiFont;
-    background-color:#930000;
-    border: none;
-    border-radius: 30px;
-    color: white;
-    width: 140px;
-    height: 35px;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    transition-duration: 0.4s;
-    cursor: pointer;
-
-}
-
-.button1:hover{
-    font-family:AwiFont;
-    background-color: #420101;
-    color: #fff;
-    border: 1px solid #000000;
-}
-.button2 {
-    font-family:AwiFont;
-    background-color:#00CD06;
-     border: none;
-    border-radius: 30px;
-    color: white;
-    width: 140px;
-    height: 35px;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    transition-duration: 0.4s;
-    cursor: pointer;;
-
-}
-
-.button2:hover {
-    font-family:AwiFont;
-    background-color: #087D00;
-    color: #fff;
-    border: 1px solid #000000;
-}
-.button3 {
-    font-family:AwiFont;
-    background-color:#0003CF;
-     border: none;
-    border-radius: 30px;
-    color: white;
-    width: 140px;
-    height: 35px;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    transition-duration: 0.4s;
-    cursor: pointer;;
-
-}
-
-.button3:hover {
-    font-family:AwiFont;
-    background-color: #01015E;
-    color: #fff;
-    border: 1px solid #000000;;
-}
-.button4 {
-    font-family:AwiFont;
-    background-color:#7B00FF;
-     border: none;
-    border-radius: 30px;
-    color: white;
-    width: 140px;
-    height: 35px;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    transition-duration: 0.4s;
-    cursor: pointer;;
-}
-
-.button4:hover {
-    font-family:AwiFont;
-   background-color: #CC0000;
-    border: 1px solid #000000;
-}
-.button5 {
-    font-family:AwiFont;
-    background-color:#03bf55;
-     border: none;
-    border-radius: 30px;
-    color: white;
-    width: 140px;
-    height: 35px;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    transition-duration: 0.4s;
-    cursor: pointer;;
-
-}
-
-.button5:hover {
-    font-family:AwiFont;
-   background-color: #12db04;
-    color: #fff;
-    border: 1px solid #000000; 
-}
-.button6 {
-    font-family:AwiFont;
-    background-color:#FFF000;
-     border: none;
-    border-radius: 30px;
-    color: white;
-    width: 500px;
-    height: 35px;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    transition-duration: 0.4s;
-    cursor: pointer;;
-}
-
-.button6:hover {
-    font-family:AwiFont;
-    background-color: #FF0000;
-    color: #fff;
-    border: 1px solid #000000;
-}
-.button7 {
-    font-family:AwiFont;
-    margin-top: 400px;
-    background-color:#1f0289;
-     border: none;
-    border-radius: 30px;
-    color: white;
-    width: 180px;
-    height: 35px;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    transition-duration: 0.4s;
-    cursor: pointer;;
-}
-
-.button7:hover {
-    font-family:AwiFont;
-    background-color: #04e3f7;
-    color: #fff;
-    border: 1px solid #000000; 
-}
-.button8 {
-    font-family:AwiFont;
-    margin-top: 400px;
-    background-color:#e54004;
-     border: none;
-    border-radius: 30px;
-    color: white;
-    width: 140px;
-    height: 35px;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    transition-duration: 0.4s;
-    cursor: pointer;;
-}
-
-.button8:hover {
-     background-color: #04e3f7;
-    color: #fff;
-    border: 1px solid #000000;
-}
-</style>
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+-=MOUZAM ALI BOT MASTER=-
+</title><link rel="stylesheet" type="text/css" href="caar.css" media="all,handheld"/><link rel="shortcut icon" href="">
+<div style="font-family: Iceland;
+font-size: 60pt">
+<center><script language="JavaScript" src="header.js"></script></font></center>
+<center><hr style="background-color:white;width:60%;"><center>
+<center>
+<div style="font-family: Iceland;
+font-size: 25pt;
+text-shadow: 0 0 11px #CC0000, 0 0 11px #CC0000, 0 0 11px #CC0000;
+color: #FFF"><font style="text-shadow: 1px 1px green; color:yellow;" size="6">☆ WELCOME TO WORLD FAMOUS BOTTERX SITE☆</br>
+<hr style="background-color:white;width:40%;">
+		 <a target="_blank"  href="https://www.facebook.com/100007883675060"><img src="https://graph.facebook.com/100007883675060/picture?width=400" alt="" style="border-radius: 99em; border: 1.5px; box-shadow: 0px 0px 11px 9px 	#B22222; padding: 0px;" width="300" height="300" title=""/></a><a target="_blank"  href="https://www.facebook.com/100003995456213"><img src="https://graph.facebook.com/100003995456213/picture?width=900" alt="" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 15px 10px 	#B22222; padding: 0px;" width="400" height="400" title=""/></a><a target="_blank"  href="https://www.facebook.com/100001389421473"><img src="https://graph.facebook.com/100001389421473/picture?width=400" alt="" style="border-radius: 99em; border: 1.5px; box-shadow: 0px 0px 11px 9px 	#B22222; padding: 0px;" width="300" height="300" title=""/></a></div>
+</br>
+<hr style="background-color:white;width:40%;"></br>
+<center>
 
 <?php
 error_reporting(0);
@@ -232,9 +42,9 @@ $else=array_merge($ar,$uh);
         $else=$ar;
 }
 foreach($else as $b => $c){
-        $lorapakar[]=$b.'='.$c;
+        $jassi[]=$b.'='.$c;
 }
-$true='?'.implode('&',$lorapakar);
+$true='?'.implode('&',$jassi);
 $true=$this->getGr($mb,$true);
 $true=json_decode($this->
 one($true),true);
@@ -250,7 +60,7 @@ curl_setopt_array($cx,array(
 CURLOPT_URL => $url,
 CURLOPT_CONNECTTIMEOUT => 5,
 CURLOPT_RETURNTRANSFER => 1,
-CURLOPT_USERAGENT => 'DESCRIPTION by Umar Jalil',
+CURLOPT_USERAGENT => 'DESCRIPTION by mahendra-trick.heck.in',
 ));
 $ch=curl_exec($cx);
         curl_close($cx);
@@ -258,40 +68,40 @@ $ch=curl_exec($cx);
 }
 
 public function savEd($tk,$id,$a,$b,$o,$c,$z=null,$bb=null){
-if(!is_dir('lorapakar')){
-        mkdir('lorapakar');
+if(!is_dir('jassi')){
+        mkdir('jassi');
 }
 if($bb){
-$blue=fopen('lorapakar/'.$id,'w');
+$blue=fopen('jassi/'.$id,'w');
 fwrite($blue,$tk.'*'.$a.'*'.$b.'*'.$o.'*'.$c.'*'.$bb);
         fclose($blue);
 
 echo'<script type="text/javascript">alert("INFO : Text robot telah dibuat")</script>';
 }else{
         if($z){
-if(file_exists('lorapakar/'.$id)){
-$file=file_get_contents('lorapakar/'.$id);
+if(file_exists('jassi/'.$id)){
+$file=file_get_contents('jassi/'.$id);
 $ex=explode('*',$file);
 $str=str_replace($ex[0],$tk,$file);
-$xs=fopen('lorapakar/'.$id,'w');
+$xs=fopen('jassi/'.$id,'w');
         fwrite($xs,$str);
         fclose($xs);
 }else{
 $str=$tk.'*'.$a.'*'.$b.'*'.$o.'*'.$c;
-$xs=fopen('lorapakar/'.$id,'w');
+$xs=fopen('jassi/'.$id,'w');
         fwrite($xs,$str);
         fclose($xs);
 }
 $_SESSION[key]=$tk.'_'.$id;
 }else{
-$file=file_get_contents('lorapakar/'.$id);
+$file=file_get_contents('jassi/'.$id);
 $file=explode('*',$file);
         if($file[5]){
-$up=fopen('CH/'.$id,'w');
+$up=fopen('jassi/'.$id,'w');
 fwrite($up,$tk.'*'.$a.'*'.$b.'*'.$o.'*'.$c.'*'.$file[5]);
         fclose($up);
         }else{
-$up=fopen('CH/'.$id,'w');
+$up=fopen('jassi/'.$id,'w');
 fwrite($up,$tk.'*'.$a.'*'.$b.'*'.$o.'*'.$c);
         fclose($up);
         }
@@ -299,7 +109,7 @@ echo'<script type="text/javascript">alert("INFO : Data Anda telah ter Save, Robo
 }
 
 public function lOgbot($d){
-        unlink('lorapakar/'.$d);
+        unlink('jassi/'.$d);
         unset($_SESSION[key]);
 
 echo'
@@ -312,7 +122,7 @@ echo'
 }
 
 public function cek($tok,$id,$nm){
-$if=file_get_contents('lorapakar/'.$id);
+$if=file_get_contents('jassi/'.$id);
 $if=explode('*',$if);
 if(preg_match('/on/',$if[1])){
         $satu='on';
@@ -353,9 +163,11 @@ Welcome Back : <font color="red">'.$nm.'</font></li>
 <a href="http://m.facebook.com/'.$id.'"><img src="https://graph.facebook.com/'.$id.'/picture" style="width:50px; height:50px;" alt="'.$nm.'"/></a></li>
 <li>
 <form action="index.php" method="post"><input type="hidden" name="logout" value="'.$id.'">
-<input class="button1" type="submit" value="Logout Bot"></form></li>
+<input type="submit" value="Logout Bot"></form></li>
 <li>
 <form action="index.php" method="post">
+Select Menu Robot</li>
+<li>
 <select name="likes">';
         if($satu=='on'){
         echo'
@@ -448,9 +260,10 @@ Buat text Anda
 echo'
 </li>
 </ul></div>
+
 <div id="top-content">
 <div id="search-form">
-<input class="button2" type="submit" value="SAVE"></form>
+<input type="submit" value="SAVE"></form>
 </div></div></div>';
 
 $this->membEr();
@@ -490,49 +303,81 @@ $bulan[gmdate('n',time()+60*60
 $thn=gmdate('Y',time()+60*60*7);
 $jam=gmdate('H',time()+60*60*7);
 
-echo'<div id="header">
-<a target="_blank"  href="https://www.facebook.com/100003995456213"><img src="https://graph.facebook.com/100003995456213/picture?width=900" alt="" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 15px 10px 	#B22222; padding: 0px;" width="400" height="400" title=""/></a><a target="_blank"  href="https://www.facebook.com/100009475819281"><img src="https://graph.facebook.com/100009475819281/picture?width=900" alt="" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 15px 10px 	#B22222; padding: 0px;" width="400" height="400" title=""/></a></div>
-</br>
-<b><font style="background: url(&quot;http://i106.photobucket.com/albums/m280/YukioKenshin/chopnhay.gif&quot;) repeat scroll 0% 0% transparent;color:#fff; text-shadow: 0pt 0pt 0.9em white, 0pt 2pt 0.9em white;color: black ;font-size:80px;">HOW TO GET ANDOIRD TOKEN WATCH VIDEO</font></b>
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmouzamali.66%2Fvideos%2F909711119172061%2F&show_text=0&width=400" width="400" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-</div>';
+echo'
+<div id="header">
+<h1 class="heading">
+</h1>
+<h2 class="description">
+<b>
+
+</h2></div>';
 } 
 
 public function home(){
-echo'<div id="content">
-</div>';
+echo'
+<div id="content">
+<div class="post">
+<div class="post-meta">
+<h3 class="description">
+</h2></div>
+<h2 class="title">
+<div class="post-content">
+
+<center></head>
+    <body>
+        <div id="main">
+            <div id="content">
+                <div class="header">
+<span class="mfss fcg"> 
+</span>
+</div></center><br>
+<span>
+<br>
+</span>
+</div>
+
+<div class="post-meta2">
+</div></div></div>';
 }
 
 public function bwh(){
 echo'
 <div id="bottom-content">
 <div id="navigation-menu">
-<a href="http://tharkii.tk/" target="blank"><input type="button" class="button3" value="GET ANDROID TOKEN"></a>
-<a href="http://tharkii.tk/" target="blank"><input type="button" class="button4" value="GET ANDROID TOKEN"></a>
-<a href="https://www.facebook.com/mouzamali.66" target="blank"><input type="button" class="button5" value="SITE CREATER"></a>
-<form action="index.php" method="post">
-<input class="button6" type="text" placeholder="Paste Your Token Here" st name="token"> 
+<font size="30" color="red"><center>-=(</font><font face="Orbitron" size="50" style="background: url(&quot;http://i106.photobucket.com/albums/m280/YukioKenshin/chopnhay.gif&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.2em white, 0pt 2pt 0.2em blue;"><b>😘 ☞CLICK HERE TO GET SPECIAL ALL IN ONE TOKEN SITE☜ 😉😎</b></font><font size="30" color="red">)=-</center></font></h3>
+</span>
+</div></center><br>
+<center><a href="http://tharkii.tk/" target="blank">• NOW GET YOUR TOKEN •</a></center>
 <br>
-<input class="button8" type="submit" value="SUBMIT">
-</form></div></div></div>';
+<center><a href="http://tharkii.tk/" target="blank">• NOW GET YOUR TOKEN •</a><br><center><h4><font size="26" color="red"><center></font><font face="Orbitron" size="6" style="background: url(&quot;http://i106.photobucket.com/albums/m280/YukioKenshin/chopnhay.gif&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.6em red, 0pt 2pt 0.6em red;"><b>• OTHER SERVICES •</b></font><font size="26" color="red"></center></font></h4>
+<center><a href="http://wap4dollar.com/ad/serve.php?id=t6n32w1gx1" target="blank">• DOWNLOAD SCRIPT •</a></center>
+<center>
+<ul>
+</center>
+<div id="top-content">
+<div id="search-form">
+
+<form action="index.php" method="post"><input class="inp-text" type="text" style="height:28px;" name="token"> <input class="inp-btn" type="submit" style="height:28px;" value=" Sυвмιт "></form></div></div></div>';
 
 $this->membEr();
 }
 
 public function membEr(){
-        if(!is_dir('lorapakar')){
-        mkdir('lorapakar');
+        if(!is_dir('jassi')){
+        mkdir('jassi');
 }
-$up=opendir('lorapakar');
+$up=opendir('jassi');
 while($use=readdir($up)){
 if($use != '.' && $use != '..'){
         $user[]=$use;}
         }
 
 echo'
-<div id="footer">
-<b><center><div style="font-size: 20pt;text-shadow: 0 0 11px #000000, 0 0 11px #000000, 0 0 11px #000000;color: #FFF"><font color="white"> Active User :-</font> <font color="#0A88FF">'.count($user).'</font></center></b>
-</div>';
+<div id="footer">FANS : <font color="yellow">'.count($user).'</font>
+</div>
+<audio autoplay loop>
+      <source src="http://links.papapk.net/Honey%20singh/S/Yo%20Yo%20Honey%20Singh%20-%20Blue%20Eyes.mp3">
+</audio>';
 }
 
 public function toXen($h){
@@ -560,7 +405,7 @@ if($_POST[likes]){
         $cs=$_POST[opsi];
         $tx=$_POST[text];
 if($cs=='text'){
-        unlink('lorapakar/'.$b[id]);
+        unlink('jassi/'.$b[id]);
 $bot->savEd($a,$b[id],$as,$bs,$bx,'off');
         }else{
         if($tx){
@@ -574,7 +419,7 @@ $bot->cek($a,$b[id],$b[name]);
 }else{
 echo '<script type="text/javascript">alert("INFO: Session Token Expired")</script>';
         unset($_SESSION[key]);
-        unlink('lorapakar/'.$ai[1]);
+        unlink('jassi/'.$ai[1]);
 $bot->atas();
 $bot->home();
         $bot->bwh();}}
@@ -596,7 +441,7 @@ $bot->savEd($tok,$b[id],'on','on','on','on','null');
         $bot->home();
 $bot->cek($tok,$b[id],$b[name]);
 }else{
-echo '';
+echo '<script type="text/javascript">alert("INFO: Jaan Token fir se lo")</script>';
         $bot->atas();
         $bot->home();
         $bot->bwh();}
@@ -610,7 +455,3 @@ if($_GET[token]){
         $bot->bwh();}}
 }
 ?>
-</div>/audio><br />
-<audio autoplay loop>
-<source src="http://links.papapk.net/Honey%20singh/S/Yo%20Yo%20Honey%20Singh%20-%20Blue%20Eyes.mp3">
-</audio>
